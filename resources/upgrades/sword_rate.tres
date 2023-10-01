@@ -1,0 +1,9 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://rl2flqpc0jx4"]
+
+[ext_resource type="Script" path="res://resources/upgrades/ability_upgrade.gd" id="1_bs1ao"]
+
+[resource]
+script = ExtResource("1_bs1ao")
+id = "sword_rate"
+name = "Espada Veloz"
+description = "Aumenta a frequência de ataques da espada em 10%."
